@@ -22,7 +22,8 @@ function insertRepoElements() {
            data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}"
            id="icon-button-3687d1cc-80c1-4c31-b4e2-eeadc62caa2e"
            aria-labelledby="tooltip-47f31707-50b4-481b-ac1a-ed582bf40eb5" data-view-component="true"
-           class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">
+           class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted" 
+           style="background: linear-gradient(black, purple);">
 
             <svg aria-hidden="true" focusable="false" class="octicon octicon-repo Octicon-sc-9kayk9-0"
                  viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block"
